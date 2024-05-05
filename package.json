@@ -2,26 +2,22 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://lotickles.github.io/goit-js-hw-09/",
+  "homepage": "https://lotickles.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lotickles/goit-js-hw-09.git"
+    "url": "git+https://github.com/lotickles/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Martirez Marylou <maryloumartirez@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://lotickles.github.io/goit-js-hw-09/issues"
+    "url": "https://lotickles.github.io/goit-js-hw-10/issues"
   },
-  "dependencies": {
-    "flatpickr": "^4.6.13",
-    "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.7"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "parcel": "^2.6.0",
